@@ -30,7 +30,7 @@ I'm interested in exploring how **business, technology, Artificial Intelligence,
 
 ### 🤝 Let's Connect
 - 💼 LinkedIn: [Yash Sobti](https://www.linkedin.com/in/yash-sobti-25215925a/)
-- 💻 GitHub: [YashSobti](https://github.com/YashSobti)
+
 
 I'm always open to learning, collaborating, and exploring new ideas at the intersection of business and technology.
 
